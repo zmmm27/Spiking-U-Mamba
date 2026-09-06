@@ -1,3 +1,4 @@
+<img width="2076" height="970" alt="图2 drawio" src="https://github.com/user-attachments/assets/7bf2116a-efa8-4803-817f-3db8ae2c7eb4" />
 The article link is:https://www.mdpi.com/2079-9292/15/17/3879 
 Our code has been uploaded.The configured environment is:
 cuda-nvcc                 11.8.89 ;                 
